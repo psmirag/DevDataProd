@@ -2,8 +2,8 @@ name: DevDataProd
 account: psmiraglia
 server: shinyapps.io
 appId: 72696
-bundleId: 327355
+bundleId: 327357
 url: https://psmiraglia.shinyapps.io/DevDataProd
-when: 1449639074.70803
+when: 1449639226.96057
 asMultiple: FALSE
 asStatic: FALSE
