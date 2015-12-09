@@ -1,0 +1,737 @@
+Group,Team,Number,Position,Name,Tag,Monat,Jahr,Alter (12. Jun),Club,Liga,Captain
+A,Brazil,1,GK,Jefferson,2,1,1983,"31,00",Botafogo,Brazil,FALSE
+A,Brazil,2,DF,Dani Alves,6,5,1983,"31,00",FC Barcelona,Spain,FALSE
+A,Brazil,3,DF,Thiago Silva (c),22,9,1984,"29,00",Paris Saint-Germain,France,TRUE
+A,Brazil,4,DF,David Luiz,22,4,1987,"27,00",Chelsea,England,FALSE
+A,Brazil,5,MF,Fernandinho,4,5,1985,"29,00",Manchester City,England,FALSE
+A,Brazil,6,DF,Marcelo,12,5,1988,"26,00",Real Madrid,Spain,FALSE
+A,Brazil,7,FW,Hulk,25,7,1986,"27,00",Zenit Saint Petersburg,Russia,FALSE
+A,Brazil,8,MF,Paulinho,25,7,1988,"25,00",Tottenham Hotspur,England,FALSE
+A,Brazil,9,FW,Fred,3,10,1983,"30,00",Fluminense,Brazil,FALSE
+A,Brazil,10,FW,Neymar,5,2,1992,"22,00",FC Barcelona,Spain,FALSE
+A,Brazil,11,MF,Oscar,9,9,1991,"22,00",Chelsea,England,FALSE
+A,Brazil,12,GK,Julio Cesar,3,9,1979,"34,00",Toronto,Canada,FALSE
+A,Brazil,13,DF,Dante,18,10,1983,"30,00",Bayern Munich,Germany,FALSE
+A,Brazil,14,DF,Maxwell,27,8,1981,"32,00",Paris Saint-Germain,France,FALSE
+A,Brazil,15,DF,Henrique,14,10,1986,"27,00",Napoli,Italy,FALSE
+A,Brazil,16,MF,Ramires,24,3,1987,"27,00",Chelsea,England,FALSE
+A,Brazil,17,MF,Luiz Gustavo,23,7,1987,"26,00",VfL Wolfsburg,Germany,FALSE
+A,Brazil,18,MF,Hernanes,29,5,1985,"29,00",Internazionale,Italy,FALSE
+A,Brazil,19,MF,Willian,9,8,1988,"25,00",Chelsea,England,FALSE
+A,Brazil,20,MF,Bernard,8,9,1992,"21,00",Shakhtar Donetsk,Ukraine,FALSE
+A,Brazil,21,FW,Jô,20,3,1987,"27,00",Atlético Mineiro,Brazil,FALSE
+A,Brazil,22,GK,Victor,21,1,1983,"31,00",Atlético Mineiro,Brazil,FALSE
+A,Brazil,23,DF,Maicon,26,7,1981,"32,00",Roma,Italy,FALSE
+A,Cameroon,1,FW,Samuel Eto'o (c),10,3,1981,"33,00",Chelsea,England,TRUE
+A,Cameroon,2,MF,Jean Makoun,29,5,1983,"31,00",Rennes,France,FALSE
+A,Cameroon,3,FW,Pierre Webó,20,1,1982,"32,00",Fenerbahçe,Turkey,FALSE
+A,Cameroon,4,MF,Stéphane Mbia,20,5,1986,"28,00",Sevilla,Spain,FALSE
+A,Cameroon,5,DF,Nicolas N'Koulou,27,3,1990,"24,00",Marseille,France,FALSE
+A,Cameroon,6,MF,Alex Song,9,9,1987,"26,00",FC Barcelona,Spain,FALSE
+A,Cameroon,7,MF,Landry N'Guémo,28,11,1985,"28,00",Bordeaux,France,FALSE
+A,Cameroon,8,MF,Eyong Enoh,23,3,1986,"28,00",Antalyaspor,Turkey,FALSE
+A,Cameroon,9,DF,Henri Bedimo,4,6,1984,"30,00",Lyon,France,FALSE
+A,Cameroon,10,DF,Aurélien Chedjou,20,6,1985,"28,00",Galatasaray,Turkey,FALSE
+A,Cameroon,11,FW,Maxim Choupo-Moting,23,3,1989,"25,00",Mainz 05,Germany,FALSE
+A,Cameroon,12,FW,Vincent Aboubakar,22,1,1992,"22,00",Lorient,France,FALSE
+A,Cameroon,13,MF,Joël Matip,8,8,1991,"22,00",Schalke 4,Germany,FALSE
+A,Cameroon,14,DF,Benoît Assou-Ekotto,24,3,1984,"30,00",Queens Park Rangers,England,FALSE
+A,Cameroon,15,FW,Benjamin Moukandjo,12,11,1988,"25,00",Nancy,France,FALSE
+A,Cameroon,16,DF,Dany Nounkeu,11,4,1986,"28,00",Beşiktaş,Turkey,FALSE
+A,Cameroon,17,GK,Charles Itandje,2,11,1982,"31,00",Konyaspor,Turkey,FALSE
+A,Cameroon,18,DF,Allan Nyom,10,5,1988,"26,00",Granada,Spain,FALSE
+A,Cameroon,19,MF,Edgar Salli,17,8,1992,"21,00",Lens,France,FALSE
+A,Cameroon,20,FW,Fabrice Olinga,12,5,1996,"18,00",Zulte Waregem,Belgium,FALSE
+A,Cameroon,21,DF,Cédric Djeugoué,28,8,1992,"21,00",Coton Sport,Cameroon,FALSE
+A,Cameroon,22,GK,Sammy N'Djock,25,2,1990,"24,00",Fethiyespor,Turkey,FALSE
+A,Cameroon,23,GK,Loïc Feudjou,14,4,1992,"22,00",Coton Sport,Cameroon,FALSE
+A,Croatia,1,GK,Stipe Pletikosa,8,1,1979,"35,00",Rostov,Russia,FALSE
+A,Croatia,2,FW,Ante Rebić,21,9,1993,"20,00",Fiorentina,Italy,FALSE
+A,Croatia,3,DF,Danijel Pranjić,2,12,1981,"32,00",Panathinaikos,Greece,FALSE
+A,Croatia,4,MF,Ivan Perišić,2,2,1989,"25,00",VfL Wolfsburg,Germany,FALSE
+A,Croatia,5,DF,Vedran Ćorluka,5,2,1986,"28,00",Lokomotiv Moscow,Russia,FALSE
+A,Croatia,6,DF,Dejan Lovren,5,7,1989,"24,00",Southampton,England,FALSE
+A,Croatia,7,MF,Ivan Rakitić,10,3,1988,"26,00",Sevilla,Spain,FALSE
+A,Croatia,8,MF,Ognjen Vukojević,20,12,1983,"30,00",Dynamo Kyiv,Ukraine,FALSE
+A,Croatia,9,FW,Nikica Jelavić,27,8,1985,"28,00",Hull City,England,FALSE
+A,Croatia,10,MF,Luka Modrić,9,9,1985,"28,00",Real Madrid,Spain,FALSE
+A,Croatia,11,DF,Darijo Srna (c),1,5,1982,"32,00",Shakhtar Donetsk,Ukraine,TRUE
+A,Croatia,12,GK,Danijel Subašić,27,10,1984,"29,00",Monaco,Monaco,FALSE
+A,Croatia,13,DF,Gordon Schildenfeld,18,3,1985,"29,00",Panathinaikos,Greece,FALSE
+A,Croatia,14,MF,Marcelo Brozović,16,10,1992,"21,00",Dinamo Zagreb,Croatia,FALSE
+A,Croatia,15,DF,Šime Vrsaljko,10,1,1992,"22,00",Genoa,Italy,FALSE
+A,Croatia,16,MF,Ivan Močinić,30,4,1993,"21,00",Rijeka,Croatia,FALSE
+A,Croatia,17,FW,Mario Mandžukić,21,5,1986,"28,00",Bayern Munich,Germany,FALSE
+A,Croatia,18,FW,Ivica Olić,14,9,1979,"34,00",VfL Wolfsburg,Germany,FALSE
+A,Croatia,19,MF,Sammir,23,4,1987,"27,00",Getafe,Spain,FALSE
+A,Croatia,20,MF,Mateo Kovačić,6,5,1994,"20,00",Internazionale,Italy,FALSE
+A,Croatia,21,DF,Domagoj Vida,29,4,1989,"25,00",Dynamo Kyiv,Ukraine,FALSE
+A,Croatia,22,FW,Eduardo,25,2,1983,"31,00",Shakhtar Donetsk,Ukraine,FALSE
+A,Croatia,23,GK,Oliver Zelenika,14,5,1993,"21,00",Lokomotiva,Croatia,FALSE
+A,Mexico,1,GK,José de Jesús Corona,26,1,1981,"33,00",Cruz Azul,Mexico,FALSE
+A,Mexico,2,DF,Francisco Javier Rodríguez,20,10,1981,"32,00",América,Mexico,FALSE
+A,Mexico,3,DF,Carlos Salcido,2,4,1980,"34,00",UANL,Mexico,FALSE
+A,Mexico,4,DF,Rafael Márquez (c),13,2,1979,"35,00",León,Mexico,TRUE
+A,Mexico,5,DF,Diego Reyes,19,9,1992,"21,00",Porto,Portugal,FALSE
+A,Mexico,6,MF,Héctor Herrera,19,4,1990,"24,00",Porto,Portugal,FALSE
+A,Mexico,7,DF,Miguel Layún,25,6,1988,"25,00",América,Mexico,FALSE
+A,Mexico,8,MF,Marco Fabián,21,7,1989,"24,00",Cruz Azul,Mexico,FALSE
+A,Mexico,9,FW,Raúl Jiménez,5,5,1991,"23,00",América,Mexico,FALSE
+A,Mexico,10,FW,Giovani dos Santos,11,5,1989,"25,00",Villarreal,Spain,FALSE
+A,Mexico,11,FW,Alan Pulido,8,3,1991,"23,00",UANL,Mexico,FALSE
+A,Mexico,12,GK,Alfredo Talavera,18,9,1982,"31,00",Toluca,Mexico,FALSE
+A,Mexico,13,GK,Guillermo Ochoa,13,7,1985,"28,00",Ajaccio,France,FALSE
+A,Mexico,14,FW,Javier Hernández,1,6,1988,"26,00",Manchester United,England,FALSE
+A,Mexico,15,DF,Héctor Moreno,17,1,1988,"26,00",Espanyol,Spain,FALSE
+A,Mexico,16,DF,Miguel Ángel Ponce,12,4,1989,"25,00",Toluca,Mexico,FALSE
+A,Mexico,17,MF,Isaác Brizuela,28,8,1990,"23,00",Toluca,Mexico,FALSE
+A,Mexico,18,DF,Andrés Guardado,28,9,1986,"27,00",Bayer Leverkusen,Germany,FALSE
+A,Mexico,19,FW,Oribe Peralta,12,1,1984,"30,00",Santos Laguna,Mexico,FALSE
+A,Mexico,20,MF,Javier Aquino,11,2,1990,"24,00",Villarreal,Spain,FALSE
+A,Mexico,21,MF,Carlos Peña,29,3,1990,"24,00",León,Mexico,FALSE
+A,Mexico,22,DF,Paul Aguilar,6,3,1986,"28,00",América,Mexico,FALSE
+A,Mexico,23,MF,José Juan Vázquez,14,3,1988,"26,00",León,Mexico,FALSE
+B,Australia,1,GK,Mathew Ryan,8,4,1992,"22,00",Club Brugge,Belgium,FALSE
+B,Australia,2,DF,Ivan Franjić,10,9,1987,"26,00",Brisbane Roar,Australia,FALSE
+B,Australia,3,DF,Jason Davidson,29,6,1991,"22,00",Heracles Almelo,Netherlands,FALSE
+B,Australia,4,FW,Tim Cahill,6,12,1979,"34,00",New York Red,United States,FALSE
+B,Australia,5,MF,Mark Milligan,4,8,1985,"28,00",Melbourne Victory,Australia,FALSE
+B,Australia,6,DF,Matthew Špiranović,27,6,1988,"25,00",Western Sydney Wanderers,Australia,FALSE
+B,Australia,7,FW,Mathew Leckie,4,2,1991,"23,00",FSV Frankfurt,Germany,FALSE
+B,Australia,8,MF,Oliver Bozanić,8,1,1989,"25,00",Luzern,Switzerland,FALSE
+B,Australia,9,FW,Adam Taggart,2,6,1993,"21,00",Newcastle Jets,Australia,FALSE
+B,Australia,10,MF,Tommy Oar,10,12,1991,"22,00",Utrecht,Netherlands,FALSE
+B,Australia,11,MF,James Troisi,3,7,1988,"25,00",Atalanta,Italy,FALSE
+B,Australia,12,GK,Mitchell Langerak,22,8,1988,"25,00",Borussia Dortmund,Germany,FALSE
+B,Australia,13,DF,Bailey Wright,28,7,1992,"21,00",Preston North End,England,FALSE
+B,Australia,14,MF,Ben Halloran,14,6,1992,"21,00",Fortuna Düsseldorf,Germany,FALSE
+B,Australia,15,MF,Mile Jedinak (c),3,8,1984,"29,00",Crystal Palace,England,TRUE
+B,Australia,16,MF,James Holland,15,5,1989,"25,00",Austria Wien,Austria,FALSE
+B,Australia,17,MF,Matt McKay,11,1,1983,"31,00",Brisbane Roar,Australia,FALSE
+B,Australia,18,GK,Eugene Galeković,12,6,1981,"33,00",Adelaide United,Australia,FALSE
+B,Australia,19,DF,Ryan McGowan,15,8,1989,"24,00",Shandong Luneng Taishan,China,FALSE
+B,Australia,20,MF,Dario Vidošić,8,4,1987,"27,00",Sion,Switzerland,FALSE
+B,Australia,21,MF,Massimo Luongo,25,9,1992,"21,00",Swindon Town,England,FALSE
+B,Australia,22,DF,Alex Wilkinson,13,8,1984,"29,00",Jeonbuk Hyundai Motors,South Korea,FALSE
+B,Australia,23,MF,Mark Bresciano,11,2,1980,"34,00",Al-Gharafa,Qatar,FALSE
+B,Chile,1,GK,Claudio Bravo (c),13,4,1983,"31,00",Real Sociedad,Spain,TRUE
+B,Chile,2,DF,Eugenio Mena,18,7,1988,"25,00",Santos,Brazil,FALSE
+B,Chile,3,DF,Miiko Albornoz,3,11,1990,"23,00",Malmö FF,Sweden,FALSE
+B,Chile,4,MF,Mauricio Isla,12,6,1988,"26,00",Juventus,Italy,FALSE
+B,Chile,5,MF,Francisco Silva,11,2,1986,"28,00",Osasuna,Spain,FALSE
+B,Chile,6,MF,Carlos Carmona,21,2,1987,"27,00",Atalanta,Italy,FALSE
+B,Chile,7,FW,Alexis Sánchez,19,12,1988,"25,00",FC Barcelona,Spain,FALSE
+B,Chile,8,MF,Arturo Vidal,22,5,1987,"27,00",Juventus,Italy,FALSE
+B,Chile,9,FW,Mauricio Pinilla,4,2,1984,"30,00",Cagliari,Italy,FALSE
+B,Chile,10,MF,Jorge Valdívia,3,10,1983,"30,00",Palmeiras,Brazil,FALSE
+B,Chile,11,FW,Eduardo Vargas,20,11,1989,"24,00",Valencia,Spain,FALSE
+B,Chile,12,GK,Cristopher Toselli,22,6,1988,"25,00",Universidad Católica,Chile,FALSE
+B,Chile,13,DF,José Rojas,3,6,1983,"31,00",Universidad de Chile,Chile,FALSE
+B,Chile,14,FW,Fabián Orellana,27,1,1986,"28,00",Celta Vigo,Spain,FALSE
+B,Chile,15,MF,Jean Beausejour,3,6,1984,"30,00",Wigan Athletic,England,FALSE
+B,Chile,16,MF,Felipe Gutiérrez,8,10,1990,"23,00",Twente,Netherlands,FALSE
+B,Chile,17,DF,Gary Medel,3,8,1987,"26,00",Cardiff City,Wales,FALSE
+B,Chile,18,DF,Gonzalo Jara,29,8,1985,"28,00",Nottingham Forest,England,FALSE
+B,Chile,19,MF,José Pedro Fuenzalida,22,2,1985,"29,00",Colo-Colo,Chile,FALSE
+B,Chile,20,MF,Charles Aránguiz,17,4,1989,"25,00",Internacional,Brazil,FALSE
+B,Chile,21,MF,Marcelo Díaz,30,12,1986,"27,00",Basel,Switzerland,FALSE
+B,Chile,22,FW,Esteban Paredes,1,8,1980,"33,00",Colo-Colo,Chile,FALSE
+B,Chile,23,GK,Johnny Herrera,9,5,1981,"33,00",Universidad de Chile,Chile,FALSE
+B,Neatherlands,1,GK,Jasper Cillessen,22,4,1989,"25,00",Ajax,Netherlands,FALSE
+B,Neatherlands,2,DF,Ron Vlaar,16,2,1985,"29,00",Aston Villa,England,FALSE
+B,Neatherlands,3,DF,Stefan de Vrij,5,2,1992,"22,00",Feyenoord,Netherlands,FALSE
+B,Neatherlands,4,DF,Bruno Martins Indi,8,2,1992,"22,00",Feyenoord,Netherlands,FALSE
+B,Neatherlands,5,DF,Daley Blind,9,3,1990,"24,00",Ajax,Netherlands,FALSE
+B,Neatherlands,6,MF,Jonathan de Guzmán,13,9,1987,"26,00",Swansea City,Wales,FALSE
+B,Neatherlands,7,DF,Daryl Janmaat,22,7,1989,"24,00",Feyenoord,Netherlands,FALSE
+B,Neatherlands,8,MF,Nigel de Jong,13,11,1984,"29,00",Milan,Italy,FALSE
+B,Neatherlands,9,FW,Robin van Persie (c),6,8,1983,"30,00",Manchester United,England,TRUE
+B,Neatherlands,10,MF,Wesley Sneijder,9,6,1984,"30,00",Galatasaray,Turkey,FALSE
+B,Neatherlands,11,FW,Arjen Robben,23,1,1984,"30,00",Bayern Munich,Germany,FALSE
+B,Neatherlands,12,DF,Paul Verhaegh,1,9,1983,"30,00",FC Augsburg,Germany,FALSE
+B,Neatherlands,13,DF,Joël Veltman,15,1,1992,"22,00",Ajax,Netherlands,FALSE
+B,Neatherlands,14,DF,Terence Kongolo,14,2,1994,"20,00",Feyenoord,Netherlands,FALSE
+B,Neatherlands,15,FW,Dirk Kuyt,22,7,1980,"33,00",Fenerbahçe,Turkey,FALSE
+B,Neatherlands,16,MF,Jordy Clasie,27,6,1991,"22,00",Feyenoord,Netherlands,FALSE
+B,Neatherlands,17,FW,Jeremain Lens,24,11,1987,"26,00",Dynamo Kyiv,Ukraine,FALSE
+B,Neatherlands,18,MF,Leroy Fer,5,1,1990,"24,00",Norwich City,England,FALSE
+B,Neatherlands,19,FW,Klaas-Jan Huntelaar,12,8,1983,"30,00",Schalke 4,Germany,FALSE
+B,Neatherlands,20,MF,Georginio Wijnaldum,11,11,1990,"23,00",PSV Eindhoven,Netherlands,FALSE
+B,Neatherlands,21,MF,Memphis Depay,13,2,1994,"20,00",PSV Eindhoven,Netherlands,FALSE
+B,Neatherlands,22,GK,Michel Vorm,3,10,1983,"30,00",Swansea City,Wales,FALSE
+B,Neatherlands,23,GK,Tim Krul,3,4,1988,"26,00",Newcastle United,England,FALSE
+B,Spain,1,GK,Iker Casillas (c),20,5,1981,"33,00",Real Madrid,Spain,TRUE
+B,Spain,2,DF,Raúl Albiol,4,9,1985,"28,00",Napoli,Italy,FALSE
+B,Spain,3,DF,Gerard Piqué,2,2,1987,"27,00",FC Barcelona,Spain,FALSE
+B,Spain,4,MF,Javi Martínez,2,9,1988,"25,00",Bayern Munich,Germany,FALSE
+B,Spain,5,DF,Juanfran,9,1,1985,"29,00",Atlético Madrid,Spain,FALSE
+B,Spain,6,MF,Andrés Iniesta,11,5,1984,"30,00",FC Barcelona,Spain,FALSE
+B,Spain,7,FW,David Villa,3,12,1981,"32,00",Atlético Madrid,Spain,FALSE
+B,Spain,8,MF,Xavi,25,1,1980,"34,00",FC Barcelona,Spain,FALSE
+B,Spain,9,FW,Fernando Torres,20,3,1984,"30,00",Chelsea,England,FALSE
+B,Spain,10,MF,Cesc Fàbregas,4,5,1987,"27,00",FC Barcelona,Spain,FALSE
+B,Spain,11,FW,Pedro,28,7,1987,"26,00",FC Barcelona,Spain,FALSE
+B,Spain,12,GK,David de Gea,7,11,1990,"23,00",Manchester United,England,FALSE
+B,Spain,13,MF,Juan Mata,28,4,1988,"26,00",Manchester United,England,FALSE
+B,Spain,14,MF,Xabi Alonso,25,11,1981,"32,00",Real Madrid,Spain,FALSE
+B,Spain,15,DF,Sergio Ramos,30,3,1986,"28,00",Real Madrid,Spain,FALSE
+B,Spain,16,MF,Sergio Busquets,16,7,1988,"25,00",FC Barcelona,Spain,FALSE
+B,Spain,17,MF,Koke,8,1,1992,"22,00",Atlético Madrid,Spain,FALSE
+B,Spain,18,DF,Jordi Alba,21,3,1989,"25,00",FC Barcelona,Spain,FALSE
+B,Spain,19,FW,Diego Costa,7,10,1988,"25,00",Atlético Madrid,Spain,FALSE
+B,Spain,20,MF,Santi Cazorla,13,12,1984,"29,00",Arsenal,England,FALSE
+B,Spain,21,MF,David Silva,8,1,1986,"28,00",Manchester City,England,FALSE
+B,Spain,22,DF,César Azpilicueta,28,8,1989,"24,00",Chelsea,England,FALSE
+B,Spain,23,GK,Pepe Reina,31,8,1982,"31,00",Napoli,Italy,FALSE
+C,Cote Divore,1,DF,Didier Zokora,14,12,1980,"33,00",Trabzonspor,Turkey,FALSE
+C,Cote Divore,2,DF,Kolo Touré,19,3,1981,"33,00",Liverpool,England,FALSE
+C,Cote Divore,3,FW,Didier Drogba (c),11,3,1978,"36,00",Galatasaray,Turkey,TRUE
+C,Cote Divore,4,MF,Yaya Touré,13,5,1983,"31,00",Manchester City,England,FALSE
+C,Cote Divore,5,DF,Arthur Boka,2,4,1983,"31,00",VfB Stuttgart,Germany,FALSE
+C,Cote Divore,6,GK,Boubacar Barry,30,12,1979,"34,00",Lokeren,Belgium,FALSE
+C,Cote Divore,7,FW,Salomon Kalou,5,8,1985,"28,00",Lille,France,FALSE
+C,Cote Divore,8,FW,Gervinho,27,5,1987,"27,00",Roma,Italy,FALSE
+C,Cote Divore,9,MF,Cheick Tioté,21,6,1986,"27,00",Newcastle United,England,FALSE
+C,Cote Divore,10,DF,Sol Bamba,13,1,1985,"29,00",Trabzonspor,Turkey,FALSE
+C,Cote Divore,11,MF,Didier Ya Konan,25,2,1984,"30,00",Hannover 96,Germany,FALSE
+C,Cote Divore,12,FW,Max Gradel,30,11,1987,"26,00",Saint-Étienne,France,FALSE
+C,Cote Divore,13,FW,Wilfried Bony,10,12,1988,"25,00",Swansea City,Wales,FALSE
+C,Cote Divore,14,DF,Serge Aurier,24,12,1992,"21,00",Toulouse,France,FALSE
+C,Cote Divore,15,FW,Giovanni Sio,31,3,1989,"25,00",Basel,Switzerland,FALSE
+C,Cote Divore,16,MF,Serey Die,7,11,1984,"29,00",Basel,Switzerland,FALSE
+C,Cote Divore,17,DF,Constant Djakpa,17,10,1986,"27,00",Eintracht Frankfurt,Germany,FALSE
+C,Cote Divore,18,FW,Mathis Bolly,14,11,1990,"23,00",Fortuna Düsseldorf,Germany,FALSE
+C,Cote Divore,19,DF,Ousmane Viera,21,12,1986,"27,00",Çaykur Rizespor,Turkey,FALSE
+C,Cote Divore,20,GK,Sayouba Mandé,5,6,1993,"21,00",Stabæk,Norway,FALSE
+C,Cote Divore,21,MF,Ismaël Diomandé,28,8,1992,"21,00",Saint-Étienne,France,FALSE
+C,Cote Divore,22,DF,Jean-Daniel Akpa-Akpro,11,10,1992,"21,00",Toulouse,France,FALSE
+C,Cote Divore,23,GK,Sylvain Gbohouo,29,10,1988,"25,00",Coast Séwé Sport,Ivory,FALSE
+C,Greece,1,GK,Orestis Karnezis,11,7,1985,"28,00",Granada,Spain,FALSE
+C,Greece,2,DF,Giannis Maniatis,12,10,1986,"27,00",Olympiacos,Greece,FALSE
+C,Greece,3,DF,Giorgos Tzavellas,26,11,1987,"26,00",PAOK,Greece,FALSE
+C,Greece,4,DF,Kostas Manolas,14,6,1991,"22,00",Olympiacos,Greece,FALSE
+C,Greece,5,DF,Vangelis Moras,26,8,1981,"32,00",Verona,Italy,FALSE
+C,Greece,6,MF,Alexandros Tziolis,13,2,1985,"29,00",Kayserispor,Turkey,FALSE
+C,Greece,7,FW,Giorgos Samaras,21,2,1985,"29,00",Celtic,Scotland,FALSE
+C,Greece,8,MF,Panagiotis Kone,26,7,1987,"26,00",Bologna,Italy,FALSE
+C,Greece,9,FW,Kostas Mitroglou,12,3,1988,"26,00",Fulham,England,FALSE
+C,Greece,10,MF,Giorgos Karagounis (c),6,3,1977,"37,00",Fulham,England,TRUE
+C,Greece,11,DF,Loukas Vyntra,5,2,1981,"33,00",Levante,Spain,FALSE
+C,Greece,12,GK,Panagiotis Glykos,3,6,1986,"28,00",PAOK,Greece,FALSE
+C,Greece,13,GK,Stefanos Kapino,18,3,1994,"20,00",Panathinaikos,Greece,FALSE
+C,Greece,14,FW,Dimitris Salpingidis,18,8,1981,"32,00",PAOK,Greece,FALSE
+C,Greece,15,DF,Vasilis Torosidis,10,6,1985,"29,00",Roma,Italy,FALSE
+C,Greece,16,MF,Lazaros Christodoulopoulos,19,12,1986,"27,00",Bologna,Italy,FALSE
+C,Greece,17,FW,Theofanis Gekas,23,5,1980,"34,00",Konyaspor,Turkey,FALSE
+C,Greece,18,MF,Giannis Fetfatzidis,21,12,1990,"23,00",Genoa,Italy,FALSE
+C,Greece,19,DF,Sokratis Papastathopoulos,9,6,1988,"26,00",Borussia Dortmund,Germany,FALSE
+C,Greece,20,DF,José Holebas,27,6,1984,"29,00",Olympiacos,Greece,FALSE
+C,Greece,21,MF,Kostas Katsouranis,21,6,1979,"34,00",PAOK,Greece,FALSE
+C,Greece,22,MF,Andreas Samaris,13,6,1989,"24,00",Olympiacos,Greece,FALSE
+C,Greece,23,MF,Panagiotis Tachtsidis,15,2,1991,"23,00",Torino,Italy,FALSE
+C,Japan,1,GK,Eiji Kawashima,20,3,1983,"31,00",Standard Liège,Belgium,FALSE
+C,Japan,2,DF,Atsuto Uchida,27,3,1988,"26,00",Schalke 4,Germany,FALSE
+C,Japan,3,DF,Gōtoku Sakai,14,2,1991,"23,00",VfB Stuttgart,Germany,FALSE
+C,Japan,4,MF,Keisuke Honda,13,6,1986,"27,00",Milan,Italy,FALSE
+C,Japan,5,DF,Yuto Nagatomo,12,9,1986,"27,00",Internazionale,Italy,FALSE
+C,Japan,6,DF,Masato Morishige,21,5,1987,"27,00",F.C. Tokyo,Japan,FALSE
+C,Japan,7,MF,Yasuhito Endō,28,1,1980,"34,00",Gamba Osaka,Japan,FALSE
+C,Japan,8,MF,Hiroshi Kiyotake,12,11,1989,"24,00",1. FC Nürnberg,Germany,FALSE
+C,Japan,9,FW,Shinji Okazaki,16,4,1986,"28,00",Mainz 05,Germany,FALSE
+C,Japan,10,MF,Shinji Kagawa,17,3,1989,"25,00",Manchester United,England,FALSE
+C,Japan,11,FW,Yoichiro Kakitani,3,1,1990,"24,00",Cerezo Osaka,Japan,FALSE
+C,Japan,12,GK,Shusaku Nishikawa,18,6,1986,"27,00",Urawa Red Diamonds,Japan,FALSE
+C,Japan,13,FW,Yoshito Ōkubo,9,6,1982,"32,00",Kawasaki Frontale,Japan,FALSE
+C,Japan,14,MF,Toshihiro Aoyama,22,2,1986,"28,00",Sanfrecce Hiroshima,Japan,FALSE
+C,Japan,15,DF,Yasuyuki Konno,25,1,1983,"31,00",Gamba Osaka,Japan,FALSE
+C,Japan,16,MF,Hotaru Yamaguchi,6,10,1990,"23,00",Cerezo Osaka,Japan,FALSE
+C,Japan,17,MF,Makoto Hasebe (c),18,1,1984,"30,00",1. FC Nürnberg,Germany,TRUE
+C,Japan,18,FW,Yuya Osako,18,5,1990,"24,00",1860 München,Germany,FALSE
+C,Japan,19,DF,Masahiko Inoha,28,8,1983,"30,00",Jubilo Iwata,Japan,FALSE
+C,Japan,20,FW,Manabu Saitō,4,4,1990,"24,00",Yokohama F. Marinos,Japan,FALSE
+C,Japan,21,DF,Hiroki Sakai,12,4,1990,"24,00",Hannover 96,Germany,FALSE
+C,Japan,22,DF,Maya Yoshida,24,8,1988,"25,00",Southampton,England,FALSE
+C,Japan,23,GK,Shūichi Gonda,3,3,1989,"25,00",F.C. Tokyo,Japan,FALSE
+C,Colombia,1,GK,David Ospina,31,8,1988,"25,00",Nice,France,FALSE
+C,Colombia,2,DF,Cristián Zapata,30,9,1986,"27,00",Milan,Italy,FALSE
+C,Colombia,3,DF,Mario Yepes (c),13,1,1976,"38,00",Atalanta,Italy,TRUE
+C,Colombia,4,MF,Juan Guillermo Cuadrado,26,5,1988,"26,00",Fiorentina,Italy,FALSE
+C,Colombia,5,MF,Aldo Leão Ramírez,18,4,1981,"33,00",Morelia,Mexico,FALSE
+C,Colombia,6,MF,Carlos Sánchez,6,2,1986,"28,00",Elche,Spain,FALSE
+C,Colombia,7,DF,Pablo Armero,2,11,1986,"27,00",West Ham United,England,FALSE
+C,Colombia,8,MF,Abel Aguilar,6,1,1985,"29,00",Toulouse,France,FALSE
+C,Colombia,9,FW,Jackson Martínez,3,10,1986,"27,00",Porto,Portugal,FALSE
+C,Colombia,10,MF,James Rodríguez,12,7,1991,"22,00",Monaco,France,FALSE
+C,Colombia,11,MF,Juan Fernando Quintero,18,1,1993,"21,00",Porto,Portugal,FALSE
+C,Colombia,12,GK,Camilo Vargas,1,9,1989,"24,00",Santa Fe,Colombia,FALSE
+C,Colombia,13,MF,Fredy Guarín,30,6,1986,"27,00",Internazionale,Italy,FALSE
+C,Colombia,14,DF,Éder Álvarez Balanta,28,2,1993,"21,00",River Plate,Argentina,FALSE
+C,Colombia,15,MF,Alexander Mejía,7,9,1988,"25,00",Atlético Nacional,Colombia,FALSE
+C,Colombia,16,MF,Víctor Ibarbo,19,5,1990,"24,00",Cagliari,Italy,FALSE
+C,Colombia,17,DF,Santiago Arias,13,1,1992,"22,00",PSV Eindhoven,Netherlands,FALSE
+C,Colombia,18,DF,Juan Camilo Zúñiga,14,12,1985,"28,00",Napoli,Italy,FALSE
+C,Colombia,19,FW,Teófilo Gutiérrez,28,5,1985,"29,00",River Plate,Argentina,FALSE
+C,Colombia,20,FW,Adrián Ramos,22,1,1986,"28,00",Hertha BSC,Germany,FALSE
+C,Colombia,21,FW,Carlos Bacca,8,9,1986,"27,00",Sevilla,Spain,FALSE
+C,Colombia,22,GK,Faryd Mondragón,21,6,1971,"42,00",Deportivo Cali,Colombia,FALSE
+C,Colombia,23,DF,Carlos Valdés,22,5,1985,"29,00",San Lorenzo,Argentina,FALSE
+D,Costa Rica,1,DF,Michael Umaña,16,7,1982,"31,00",Rica Saprissa,Costa,FALSE
+D,Costa Rica,2,MF,Celso Borges,27,5,1988,"26,00",AIK,Sweden,FALSE
+D,Costa Rica,3,FW,Bryan Ruiz (c),18,8,1985,"28,00",PSV Eindhoven,Netherlands,TRUE
+D,Costa Rica,4,DF,Júnior Díaz,12,9,1983,"30,00",Mainz 05,Germany,FALSE
+D,Costa Rica,5,MF,Christian Bolaños,17,5,1984,"30,00",Copenhagen,Denmark,FALSE
+D,Costa Rica,6,GK,Keylor Navas,15,12,1986,"27,00",Levante,Spain,FALSE
+D,Costa Rica,7,MF,Michael Barrantes,4,10,1983,"30,00",Aalesund,Norway,FALSE
+D,Costa Rica,8,DF,Roy Miller,24,11,1984,"29,00",New York Red,United States,FALSE
+D,Costa Rica,9,FW,Randall Brenes,13,8,1983,"30,00",Rica Cartaginés,Costa,FALSE
+D,Costa Rica,10,DF,Giancarlo González,8,2,1988,"26,00",Columbus Crew,United States,FALSE
+D,Costa Rica,11,MF,José Miguel Cubero,14,2,1987,"27,00",Rica Herediano,Costa,FALSE
+D,Costa Rica,12,FW,Joel Campbell,26,6,1992,"21,00",Olympiacos,Greece,FALSE
+D,Costa Rica,13,DF,Johnny Acosta,21,7,1983,"30,00",Rica Alajuelense,Costa,FALSE
+D,Costa Rica,14,DF,Cristian Gamboa,24,10,1989,"24,00",Rosenborg,Norway,FALSE
+D,Costa Rica,15,FW,Marco Ureña,5,3,1990,"24,00",Kuban Krasnodar,Russia,FALSE
+D,Costa Rica,16,MF,Yeltsin Tejeda,17,3,1992,"22,00",Rica Saprissa,Costa,FALSE
+D,Costa Rica,17,DF,Heiner Mora,20,6,1984,"29,00",Rica Saprissa,Costa,FALSE
+D,Costa Rica,18,GK,Patrick Pemberton,24,4,1982,"32,00",Rica Alajuelense,Costa,FALSE
+D,Costa Rica,19,MF,Esteban Granados,25,10,1985,"28,00",Rica Herediano,Costa,FALSE
+D,Costa Rica,20,DF,Óscar Duarte,3,6,1989,"25,00",Club Brugge,Belgium,FALSE
+D,Costa Rica,21,MF,Diego Calvo,25,3,1991,"23,00",Vålerenga,Norway,FALSE
+D,Costa Rica,22,GK,Daniel Cambronero,8,1,1986,"28,00",Rica Herediano,Costa,FALSE
+D,Costa Rica,23,DF,Waylon Francis,20,9,1990,"23,00",Columbus Crew,United States,FALSE
+D,England,1,GK,Joe Hart,19,5,1987,"27,00",Manchester City,England,FALSE
+D,England,2,DF,Glen Johnson,23,8,1984,"29,00",Liverpool,England,FALSE
+D,England,3,DF,Leighton Baines,11,12,1984,"29,00",Everton,England,FALSE
+D,England,4,MF,Steven Gerrard (c),30,5,1980,"34,00",Liverpool,England,TRUE
+D,England,5,DF,Gary Cahill,19,12,1985,"28,00",Chelsea,England,FALSE
+D,England,6,DF,Phil Jagielka,17,8,1982,"31,00",Everton,England,FALSE
+D,England,7,MF,Jack Wilshere,1,1,1992,"22,00",Arsenal,England,FALSE
+D,England,8,MF,Frank Lampard,20,6,1978,"35,00",Chelsea,England,FALSE
+D,England,9,FW,Daniel Sturridge,1,9,1989,"24,00",Liverpool,England,FALSE
+D,England,10,FW,Wayne Rooney,24,10,1985,"28,00",Manchester United,England,FALSE
+D,England,11,FW,Danny Welbeck,26,11,1990,"23,00",Manchester United,England,FALSE
+D,England,12,DF,Chris Smalling,22,11,1989,"24,00",Manchester United,England,FALSE
+D,England,13,GK,Ben Foster,3,5,1983,"31,00",West Bromwich Albion,England,FALSE
+D,England,14,MF,Jordan Henderson,17,6,1990,"23,00",Liverpool,England,FALSE
+D,England,15,MF,Alex Oxlade-Chamberlain,15,8,1993,"20,00",Arsenal,England,FALSE
+D,England,16,DF,Phil Jones,21,2,1992,"22,00",Manchester United,England,FALSE
+D,England,17,MF,James Milner,4,1,1986,"28,00",Manchester City,England,FALSE
+D,England,18,FW,Rickie Lambert,16,2,1982,"32,00",Southampton,England,FALSE
+D,England,19,MF,Raheem Sterling,8,12,1994,"19,00",Liverpool,England,FALSE
+D,England,20,MF,Adam Lallana,10,5,1988,"26,00",Southampton,England,FALSE
+D,England,21,MF,Ross Barkley,5,12,1993,"20,00",Everton,England,FALSE
+D,England,22,GK,Fraser Forster,17,3,1988,"26,00",Celtic,Scotland,FALSE
+D,England,23,DF,Luke Shaw,12,7,1995,"18,00",Southampton,England,FALSE
+D,Italy,1,GK,Gianluigi Buffon (c),28,1,1978,"36,00",Juventus,Italy,TRUE
+D,Italy,2,DF,Mattia De Sciglio,20,10,1992,"21,00",Milan,Italy,FALSE
+D,Italy,3,DF,Giorgio Chiellini,14,8,1984,"29,00",Juventus,Italy,FALSE
+D,Italy,4,DF,Matteo Darmian,2,12,1989,"24,00",Torino,Italy,FALSE
+D,Italy,5,MF,Thiago Motta,28,8,1982,"31,00",Paris Saint-Germain,France,FALSE
+D,Italy,6,MF,Antonio Candreva,28,2,1987,"27,00",Lazio,Italy,FALSE
+D,Italy,7,DF,Ignazio Abate,12,11,1986,"27,00",Milan,Italy,FALSE
+D,Italy,8,MF,Claudio Marchisio,19,1,1986,"28,00",Juventus,Italy,FALSE
+D,Italy,9,FW,Mario Balotelli,12,8,1990,"23,00",Milan,Italy,FALSE
+D,Italy,10,FW,Antonio Cassano,12,7,1982,"31,00",Parma,Italy,FALSE
+D,Italy,11,FW,Alessio Cerci,23,7,1987,"26,00",Torino,Italy,FALSE
+D,Italy,12,GK,Salvatore Sirigu,12,1,1987,"27,00",Paris Saint-Germain,France,FALSE
+D,Italy,13,GK,Mattia Perin,10,11,1992,"21,00",Genoa,Italy,FALSE
+D,Italy,14,MF,Alberto Aquilani,7,7,1984,"29,00",Fiorentina,Italy,FALSE
+D,Italy,15,DF,Andrea Barzagli,8,5,1981,"33,00",Juventus,Italy,FALSE
+D,Italy,16,MF,Daniele De Rossi,24,7,1983,"30,00",Roma,Italy,FALSE
+D,Italy,17,FW,Ciro Immobile,20,2,1990,"24,00",Torino,Italy,FALSE
+D,Italy,18,MF,Marco Parolo,25,1,1985,"29,00",Parma,Italy,FALSE
+D,Italy,19,DF,Leonardo Bonucci,1,5,1987,"27,00",Juventus,Italy,FALSE
+D,Italy,20,DF,Gabriel Paletta,15,2,1986,"28,00",Parma,Italy,FALSE
+D,Italy,21,MF,Andrea Pirlo,19,5,1979,"35,00",Juventus,Italy,FALSE
+D,Italy,22,FW,Lorenzo Insigne,4,6,1991,"23,00",Napoli,Italy,FALSE
+D,Italy,23,MF,Marco Verratti,5,11,1992,"21,00",Paris Saint-Germain,France,FALSE
+D,Uruguay,1,GK,Fernando Muslera,16,6,1986,"27,00",Galatasaray,Turkey,FALSE
+D,Uruguay,2,DF,Diego Lugano (c),2,11,1980,"33,00",West Bromwich Albion,England,TRUE
+D,Uruguay,3,DF,Diego Godín,16,2,1986,"28,00",Atlético Madrid,Spain,FALSE
+D,Uruguay,4,DF,Sebastián Coates,7,10,1990,"23,00",Nacional,Uruguay,FALSE
+D,Uruguay,5,MF,Walter Gargano,23,7,1984,"29,00",Parma,Italy,FALSE
+D,Uruguay,6,MF,Álvaro Pereira,28,11,1985,"28,00",São Paulo,Brazil,FALSE
+D,Uruguay,7,MF,Cristian Rodríguez,30,9,1985,"28,00",Atlético Madrid,Spain,FALSE
+D,Uruguay,8,FW,Abel Hernández,8,8,1990,"23,00",Palermo,Italy,FALSE
+D,Uruguay,9,FW,Luis Suárez,24,1,1987,"27,00",Liverpool,England,FALSE
+D,Uruguay,10,FW,Diego Forlán,19,5,1979,"35,00",Cerezo Osaka,Japan,FALSE
+D,Uruguay,11,FW,Christian Stuani,12,10,1986,"27,00",Espanyol,Spain,FALSE
+D,Uruguay,12,GK,Rodrigo Muñoz,22,1,1982,"32,00",Libertad,Paraguay,FALSE
+D,Uruguay,13,DF,Jorge Fucile,19,11,1984,"29,00",Porto,Portugal,FALSE
+D,Uruguay,14,MF,Nicolás Lodeiro,21,3,1989,"25,00",Botafogo,Brazil,FALSE
+D,Uruguay,15,MF,Diego Pérez,18,5,1980,"34,00",Bologna,Italy,FALSE
+D,Uruguay,16,DF,Maxi Pereira,8,6,1984,"30,00",Benfica,Portugal,FALSE
+D,Uruguay,17,MF,Egidio Arévalo Ríos,1,1,1982,"32,00",Morelia,Mexico,FALSE
+D,Uruguay,18,MF,Gastón Ramírez,2,12,1990,"23,00",Southampton,England,FALSE
+D,Uruguay,19,DF,José María Giménez,20,1,1995,"19,00",Atlético Madrid,Spain,FALSE
+D,Uruguay,20,MF,Álvaro González,29,10,1984,"29,00",Lazio,Italy,FALSE
+D,Uruguay,21,FW,Edinson Cavani,14,2,1987,"27,00",Paris Saint-Germain,France,FALSE
+D,Uruguay,22,DF,Martín Cáceres,7,4,1987,"27,00",Juventus,Italy,FALSE
+D,Uruguay,23,GK,Martín Silva,25,3,1983,"31,00",Vasco da Gama,Brazil,FALSE
+E,Ecuador,1,GK,Máximo Banguera,16,12,1985,"28,00",Barcelona SC,Ecuador,FALSE
+E,Ecuador,2,DF,Jorge Guagua,28,9,1981,"32,00",Emelec,Ecuador,FALSE
+E,Ecuador,3,DF,Frickson Erazo,5,5,1988,"26,00",Flamengo,Brazil,FALSE
+E,Ecuador,4,DF,Juan Carlos Paredes,8,7,1987,"26,00",Barcelona SC,Ecuador,FALSE
+E,Ecuador,5,MF,Renato Ibarra,20,1,1991,"23,00",Vitesse,Netherlands,FALSE
+E,Ecuador,6,MF,Christian Noboa,9,4,1985,"29,00",Dynamo Moscow,Russia,FALSE
+E,Ecuador,7,FW,Jefferson Montero,1,9,1989,"24,00",Morelia,Mexico,FALSE
+E,Ecuador,8,MF,Édison Méndez,15,3,1979,"35,00",Santa Fe,Colombia,FALSE
+E,Ecuador,9,FW,Joao Rojas,14,6,1989,"24,00",Cruz Azul,Mexico,FALSE
+E,Ecuador,10,DF,Walter Ayoví,11,8,1979,"34,00",Pachuca,Mexico,FALSE
+E,Ecuador,11,FW,Felipe Caicedo,5,9,1988,"25,00",Arab Emirates Al-Jazira,United States,FALSE
+E,Ecuador,12,GK,Adrián Bone,8,9,1988,"25,00",El Nacional,Ecuador,FALSE
+E,Ecuador,13,FW,Enner Valencia,11,4,1989,"25,00",Pachuca,Mexico,FALSE
+E,Ecuador,14,MF,Segundo Castillo,15,5,1982,"32,00",Arabia Al-Hilal,Saudi,FALSE
+E,Ecuador,15,FW,Michael Arroyo,23,4,1987,"27,00",Atlante,Mexico,FALSE
+E,Ecuador,16,MF,Antonio Valencia (c),4,8,1985,"28,00",Manchester United,England,TRUE
+E,Ecuador,17,FW,Jaime Ayoví,21,2,1988,"26,00",Tijuana,Mexico,FALSE
+E,Ecuador,18,DF,Óscar Bagüí,10,12,1982,"31,00",Emelec,Ecuador,FALSE
+E,Ecuador,19,MF,Luis Saritama,20,10,1983,"30,00",Barcelona SC,Ecuador,FALSE
+E,Ecuador,20,MF,Fidel Martínez,15,2,1990,"24,00",Tijuana,Mexico,FALSE
+E,Ecuador,21,DF,Gabriel Achilier,24,3,1985,"29,00",Emelec,Ecuador,FALSE
+E,Ecuador,22,GK,Alexander Domínguez,5,6,1987,"27,00",LDU Quito,Ecuador,FALSE
+E,Ecuador,23,MF,Carlos Gruezo,19,4,1995,"19,00",VfB Stuttgart,Germany,FALSE
+E,France,1,GK,Hugo Lloris (c),26,12,1986,"27,00",Tottenham Hotspur,England,TRUE
+E,France,2,DF,Mathieu Debuchy,28,7,1985,"28,00",Newcastle United,England,FALSE
+E,France,3,DF,Patrice Evra,15,5,1981,"33,00",Manchester United,England,FALSE
+E,France,4,DF,Raphaël Varane,25,4,1993,"21,00",Real Madrid,Spain,FALSE
+E,France,5,DF,Mamadou Sakho,13,2,1990,"24,00",Liverpool,England,FALSE
+E,France,6,MF,Yohan Cabaye,14,1,1986,"28,00",Paris Saint-Germain,France,FALSE
+E,France,7,MF,Franck Ribéry,7,4,1983,"31,00",Bayern Munich,Germany,FALSE
+E,France,8,MF,Mathieu Valbuena,28,9,1984,"29,00",Marseille,France,FALSE
+E,France,9,FW,Olivier Giroud,30,9,1986,"27,00",Arsenal,England,FALSE
+E,France,10,FW,Karim Benzema,19,12,1987,"26,00",Real Madrid,Spain,FALSE
+E,France,11,MF,Antoine Griezmann,21,3,1991,"23,00",Real Sociedad,Spain,FALSE
+E,France,12,MF,Rio Mavuba,8,3,1984,"30,00",Lille,France,FALSE
+E,France,13,DF,Eliaquim Mangala,13,2,1991,"23,00",Porto,Portugal,FALSE
+E,France,14,MF,Blaise Matuidi,9,4,1987,"27,00",Paris Saint-Germain,France,FALSE
+E,France,15,DF,Bacary Sagna,14,2,1983,"31,00",Arsenal,England,FALSE
+E,France,16,GK,Stéphane Ruffier[33],27,9,1986,"27,00",Saint-Étienne,France,FALSE
+E,France,17,DF,Lucas Digne,20,7,1993,"20,00",Paris Saint-Germain,France,FALSE
+E,France,18,MF,Moussa Sissoko,16,8,1989,"24,00",Newcastle United,England,FALSE
+E,France,19,MF,Paul Pogba,15,3,1993,"21,00",Juventus,Italy,FALSE
+E,France,20,FW,Loïc Rémy,2,1,1987,"27,00",Newcastle United,England,FALSE
+E,France,21,DF,Laurent Koscielny,10,9,1985,"28,00",Arsenal,England,FALSE
+E,France,22,MF,Clément Grenier,7,1,1991,"23,00",Lyon,France,FALSE
+E,France,23,GK,Mickaël Landreau,14,5,1979,"35,00",Bastia,France,FALSE
+E,Honduras,1,GK,Luis López,13,9,1993,"20,00",Real España,Honduras,FALSE
+E,Honduras,2,DF,Osman Chávez,29,7,1984,"29,00",Qingdao Jonoon,China,FALSE
+E,Honduras,3,DF,Maynor Figueroa,2,5,1983,"31,00",Hull City,England,FALSE
+E,Honduras,4,DF,Juan Pablo Montes,26,10,1985,"28,00",Motagua,Honduras,FALSE
+E,Honduras,5,DF,Víctor Bernárdez,24,5,1982,"32,00",San Jose Earthquakes,United States,FALSE
+E,Honduras,6,DF,Juan Carlos García,8,3,1988,"26,00",Wigan Athletic,England,FALSE
+E,Honduras,7,DF,Emilio Izaguirre,10,5,1986,"28,00",Celtic,Scotland,FALSE
+E,Honduras,8,MF,Wilson Palacios,29,7,1984,"29,00",Stoke City,England,FALSE
+E,Honduras,9,FW,Jerry Palacios,1,11,1981,"32,00",Rica Alajuelense,Costa,FALSE
+E,Honduras,10,MF,Mario Martínez,30,7,1989,"24,00",Real España,Honduras,FALSE
+E,Honduras,11,FW,Jerry Bengtson,8,4,1987,"27,00",New England Revolution,United States,FALSE
+E,Honduras,12,MF,Edder Delgado[35],20,11,1986,"27,00",Real España,Honduras,FALSE
+E,Honduras,13,FW,Carlo Costly,18,7,1982,"31,00",Real España,Honduras,FALSE
+E,Honduras,14,MF,Óscar García,4,9,1984,"29,00",Houston Dynamo,United States,FALSE
+E,Honduras,15,MF,Roger Espinoza,25,10,1986,"27,00",Wigan Athletic,England,FALSE
+E,Honduras,16,FW,Rony Martínez,16,10,1988,"25,00",Real Sociedad,Honduras,FALSE
+E,Honduras,17,MF,Marvin Chávez,3,11,1983,"30,00",Chivas USA,United States,FALSE
+E,Honduras,18,GK,Noel Valladares (c),3,5,1977,"37,00",Olimpia,Honduras,TRUE
+E,Honduras,19,MF,Luis Garrido,5,11,1990,"23,00",Olimpia,Honduras,FALSE
+E,Honduras,20,MF,Jorge Claros,8,1,1986,"28,00",Motagua,Honduras,FALSE
+E,Honduras,21,MF,Andy Najar,16,3,1993,"21,00",Anderlecht,Belgium,FALSE
+E,Honduras,22,GK,Donis Escober,3,2,1980,"34,00",Olimpia,Honduras,FALSE
+E,Honduras,23,DF,Brayan Beckeles,28,11,1985,"28,00",Olimpia,Honduras,FALSE
+E,Switzerland,1,GK,Diego Benaglio,8,9,1983,"30,00",VfL Wolfsburg,Germany,FALSE
+E,Switzerland,2,DF,Stephan Lichtsteiner,16,1,1984,"30,00",Juventus,Italy,FALSE
+E,Switzerland,3,DF,Reto Ziegler,16,1,1986,"28,00",Sassuolo,Italy,FALSE
+E,Switzerland,4,DF,Philippe Senderos,14,2,1985,"29,00",Valencia,Spain,FALSE
+E,Switzerland,5,DF,Steve von Bergen,10,6,1983,"31,00",Young Boys,Switzerland,FALSE
+E,Switzerland,6,DF,Michael Lang,8,2,1991,"23,00",Grasshopper,Switzerland,FALSE
+E,Switzerland,7,MF,Tranquillo Barnetta,22,5,1985,"29,00",Eintracht Frankfurt,Germany,FALSE
+E,Switzerland,8,MF,Gökhan Inler (c),27,6,1984,"29,00",Napoli,Italy,TRUE
+E,Switzerland,9,FW,Haris Seferović,22,2,1992,"22,00",Real Sociedad,Spain,FALSE
+E,Switzerland,10,MF,Granit Xhaka,27,9,1992,"21,00",Borussia Mönchengladbach,Germany,FALSE
+E,Switzerland,11,MF,Valon Behrami,19,4,1985,"29,00",Napoli,Italy,FALSE
+E,Switzerland,12,GK,Yann Sommer,17,12,1988,"25,00",Basel,Switzerland,FALSE
+E,Switzerland,13,DF,Ricardo Rodríguez,25,8,1992,"21,00",VfL Wolfsburg,Germany,FALSE
+E,Switzerland,14,MF,Valentin Stocker,12,4,1989,"25,00",Basel,Switzerland,FALSE
+E,Switzerland,15,MF,Blerim Džemaili,12,4,1986,"28,00",Napoli,Italy,FALSE
+E,Switzerland,16,MF,Gelson Fernandes,2,9,1986,"27,00",SC Freiburg,Germany,FALSE
+E,Switzerland,17,FW,Mario Gavranović,24,11,1989,"24,00",Zürich,Switzerland,FALSE
+E,Switzerland,18,FW,Admir Mehmedi,16,3,1991,"23,00",SC Freiburg,Germany,FALSE
+E,Switzerland,19,FW,Josip Drmić,8,8,1992,"21,00",1. FC Nürnberg,Germany,FALSE
+E,Switzerland,20,DF,Johan Djourou,18,1,1987,"27,00",Hamburger SV,Germany,FALSE
+E,Switzerland,21,GK,Roman Bürki,14,11,1990,"23,00",Grasshopper,Switzerland,FALSE
+E,Switzerland,22,DF,Fabian Schär,20,12,1991,"22,00",Basel,Switzerland,FALSE
+E,Switzerland,23,MF,Xherdan Shaqiri,10,10,1991,"22,00",Bayern Munich,Germany,FALSE
+F,Argentina,1,GK,Sergio Romero,22,2,1987,"27,00",Monaco,France,FALSE
+F,Argentina,2,DF,Ezequiel Garay,10,10,1986,"27,00",Benfica,Portugal,FALSE
+F,Argentina,3,DF,Hugo Campagnaro,27,6,1980,"33,00",Internazionale,Italy,FALSE
+F,Argentina,4,DF,Pablo Zabaleta,16,1,1985,"29,00",Manchester City,England,FALSE
+F,Argentina,5,MF,Fernando Gago,10,4,1986,"28,00",Boca Juniors,Argentina,FALSE
+F,Argentina,6,MF,Lucas Biglia,30,1,1986,"28,00",Lazio,Italy,FALSE
+F,Argentina,7,MF,Ángel di María,14,2,1988,"26,00",Real Madrid,Spain,FALSE
+F,Argentina,8,MF,Enzo Pérez,22,2,1986,"28,00",Benfica,Portugal,FALSE
+F,Argentina,9,FW,Gonzalo Higuaín,10,12,1987,"26,00",Napoli,Italy,FALSE
+F,Argentina,10,FW,Lionel Messi (c),24,6,1987,"26,00",FC Barcelona,Spain,TRUE
+F,Argentina,11,MF,Maxi Rodríguez,2,1,1981,"33,00",Newell's Old Boys,Argentina,FALSE
+F,Argentina,12,GK,Agustín Orión,26,7,1981,"32,00",Boca Juniors,Argentina,FALSE
+F,Argentina,13,MF,Augusto Fernández,10,4,1986,"28,00",Celta Vigo,Spain,FALSE
+F,Argentina,14,MF,Javier Mascherano,8,6,1984,"30,00",FC Barcelona,Spain,FALSE
+F,Argentina,15,DF,Martín Demichelis,20,12,1980,"33,00",Manchester City,England,FALSE
+F,Argentina,16,DF,Marcos Rojo,20,3,1990,"24,00",Sporting CP,Portugal,FALSE
+F,Argentina,17,DF,Federico Fernández,21,2,1989,"25,00",Napoli,Italy,FALSE
+F,Argentina,18,FW,Rodrigo Palacio,5,2,1982,"32,00",Internazionale,Italy,FALSE
+F,Argentina,19,MF,Ricardo Álvarez,12,4,1988,"26,00",Internazionale,Italy,FALSE
+F,Argentina,20,FW,Sergio Agüero,2,6,1988,"26,00",Manchester City,England,FALSE
+F,Argentina,21,GK,Mariano Andújar,30,7,1983,"30,00",Catania,Italy,FALSE
+F,Argentina,22,FW,Ezequiel Lavezzi,3,5,1985,"29,00",Paris Saint-Germain,France,FALSE
+F,Argentina,23,DF,José María Basanta,3,4,1984,"30,00",Monterrey,Mexico,FALSE
+F,Bosnia,1,GK,Asmir Avdukić,13,5,1981,"33,00",Borac Banja,Bosnia & Herzogowina,FALSE
+F,Bosnia,2,DF,Avdija Vršajević,6,3,1986,"28,00",Hajduk Split,Croatia,FALSE
+F,Bosnia,3,DF,Ermin Bičakčić,24,1,1990,"24,00",Eintracht Braunschweig,Germany,FALSE
+F,Bosnia,4,DF,Emir Spahić (c),18,8,1980,"33,00",Bayer Leverkusen,Germany,TRUE
+F,Bosnia,5,DF,Sead Kolašinac,20,6,1993,"20,00",Schalke 4,Germany,FALSE
+F,Bosnia,6,DF,Ognjen Vranješ,24,10,1989,"24,00",Elazığspor,Turkey,FALSE
+F,Bosnia,7,DF,Muhamed Bešić,10,9,1992,"21,00",Ferencváros,Hungary,FALSE
+F,Bosnia,8,MF,Miralem Pjanić,2,4,1990,"24,00",Roma,Italy,FALSE
+F,Bosnia,9,FW,Vedad Ibišević,6,8,1984,"29,00",VfB Stuttgart,Germany,FALSE
+F,Bosnia,10,MF,Zvjezdan Misimović,5,6,1982,"32,00",Guizhou Renhe,China,FALSE
+F,Bosnia,11,FW,Edin Džeko,17,3,1986,"28,00",Manchester City,England,FALSE
+F,Bosnia,12,GK,Jasmin Fejzić,15,5,1986,"28,00",VfR Aalen,Germany,FALSE
+F,Bosnia,13,DF,Mensur Mujdža,28,3,1984,"30,00",SC Freiburg,Germany,FALSE
+F,Bosnia,14,MF,Izet Hajrović,4,8,1991,"22,00",Galatasaray,Turkey,FALSE
+F,Bosnia,15,DF,Toni Šunjić,15,12,1988,"25,00",Zorya Luhansk,Ukraine,FALSE
+F,Bosnia,16,MF,Senad Lulić,18,1,1986,"28,00",Lazio,Italy,FALSE
+F,Bosnia,17,MF,Senijad Ibričić,26,9,1985,"28,00",Kayseri Erciyesspor,Turkey,FALSE
+F,Bosnia,18,MF,Haris Medunjanin,8,3,1985,"29,00",Gaziantepspor,Turkey,FALSE
+F,Bosnia,19,FW,Edin Višća,17,2,1990,"24,00",İstanbul BB,Turkey,FALSE
+F,Bosnia,20,MF,Anel Hadžić,16,8,1989,"24,00",Sturm Graz,Austria,FALSE
+F,Bosnia,21,MF,Tino-Sven Sušić,13,2,1992,"22,00",Hajduk Split,Croatia,FALSE
+F,Bosnia,22,GK,Asmir Begović,20,6,1987,"26,00",Stoke City,England,FALSE
+F,Bosnia,23,MF,Sejad Salihović,8,10,1984,"29,00",1899 Hoffenheim,Germany,FALSE
+F,Iran,1,MF,Javad Nekounam (c),7,10,1980,"33,00",Al-Kuwait,Kuwait,TRUE
+F,Iran,2,DF,Jalal Hosseini,3,2,1982,"32,00",Persepolis,Iran,FALSE
+F,Iran,3,MF,Andranik Teymourian,6,3,1983,"31,00",Esteghlal,Iran,FALSE
+F,Iran,4,DF,Ehsan Hajsafi,25,2,1990,"24,00",Sepahan,Iran,FALSE
+F,Iran,5,MF,Masoud Shojaei,9,6,1984,"30,00",Las Palmas,Spain,FALSE
+F,Iran,6,DF,Khosro Heydari,14,9,1983,"30,00",Esteghlal,Iran,FALSE
+F,Iran,7,FW,Karim Ansarifard,3,4,1990,"24,00",Tractor Sazi,Iran,FALSE
+F,Iran,8,DF,Pejman Montazeri,6,9,1983,"30,00",Umm Salal,Qatar,FALSE
+F,Iran,9,DF,Hossein Mahini,16,9,1986,"27,00",Persepolis,Iran,FALSE
+F,Iran,10,DF,Mehrdad Pouladi,26,2,1987,"27,00",Persepolis,Iran,FALSE
+F,Iran,11,DF,Hashem Beikzadeh,22,1,1984,"30,00",Esteghlal,Iran,FALSE
+F,Iran,12,MF,Ghasem Haddadifar,12,7,1983,"30,00",Zob Ahan,Iran,FALSE
+F,Iran,13,DF,Amir Hossein Sadeghi,6,9,1981,"32,00",Esteghlal,Iran,FALSE
+F,Iran,14,MF,Ashkan Dejagah,5,7,1986,"27,00",Fulham,England,FALSE
+F,Iran,15,FW,Reza Ghoochannejhad,20,9,1987,"26,00",Charlton Athletic,England,FALSE
+F,Iran,16,GK,Rahman Ahmadi,30,7,1980,"33,00",Sepahan,Iran,FALSE
+F,Iran,17,DF,Ahmad Alenemeh,10,10,1982,"31,00",Naft Tehran,Iran,FALSE
+F,Iran,18,MF,Reza Haghighi,1,2,1989,"25,00",Persepolis,Iran,FALSE
+F,Iran,19,DF,Steven Beitashour,1,2,1987,"27,00",Vancouver Whitecaps,Canada,FALSE
+F,Iran,20,FW,Alireza Jahanbakhsh,11,8,1993,"20,00",NEC,Netherlands,FALSE
+F,Iran,21,GK,Alireza Haghighi,2,5,1988,"26,00",Sporting Covilhã,Portugal,FALSE
+F,Iran,22,GK,Daniel Davari,6,1,1988,"26,00",Eintracht Braunschweig,Germany,FALSE
+F,Iran,23,MF,Bakhtiar Rahmani,23,9,1991,"22,00",Foolad,Iran,FALSE
+F,Nigeria,1,DF,Joseph Yobo,6,9,1980,"33,00",Norwich City,England,FALSE
+F,Nigeria,2,GK,Vincent Enyeama (c),29,8,1982,"31,00",Lille,France,TRUE
+F,Nigeria,3,FW,Peter Odemwingie,15,7,1981,"32,00",Stoke City,England,FALSE
+F,Nigeria,4,MF,John Obi Mikel,22,4,1987,"27,00",Chelsea,England,FALSE
+F,Nigeria,5,DF,Uwa Elderson Echiéjilé,20,1,1988,"26,00",Monaco,France,FALSE
+F,Nigeria,6,DF,Efe Ambrose,18,10,1988,"25,00",Celtic,Scotland,FALSE
+F,Nigeria,7,DF,Godfrey Oboabona,16,8,1990,"23,00",Çaykur Rizespor,Turkey,FALSE
+F,Nigeria,8,FW,Ahmed Musa,14,10,1992,"21,00",CSKA Moscow,Russia,FALSE
+F,Nigeria,9,GK,Austin Ejide,8,4,1984,"30,00",Hapoel Be'er Sheva,Israel,FALSE
+F,Nigeria,10,DF,Azubuike Egwuekwe,16,7,1989,"24,00",Warri Wolves,Nigeria,FALSE
+F,Nigeria,11,FW,Emmanuel Emenike,10,5,1987,"27,00",Fenerbahçe,Turkey,FALSE
+F,Nigeria,12,MF,Victor Moses,12,12,1990,"23,00",Liverpool,England,FALSE
+F,Nigeria,13,MF,Ogenyi Onazi,25,12,1992,"21,00",Lazio,Italy,FALSE
+F,Nigeria,14,DF,Kenneth Omeruo,17,10,1993,"20,00",Middlesbrough,England,FALSE
+F,Nigeria,15,MF,Reuben Gabriel,25,9,1990,"23,00",Waasland-Beveren,Belgium,FALSE
+F,Nigeria,16,GK,Chigozie Agbim,28,11,1984,"29,00",Gombe United,Nigeria,FALSE
+F,Nigeria,17,DF,Kunle Odunlami,5,3,1990,"24,00",Sunshine Stars,Nigeria,FALSE
+F,Nigeria,18,DF,Juwon Oshaniwa,14,9,1990,"23,00",Ashdod,Israel,FALSE
+F,Nigeria,19,FW,Uche Nwofor,17,9,1991,"22,00",SC Heerenveen,Netherlands,FALSE
+F,Nigeria,20,FW,Shola Ameobi,12,10,1981,"32,00",Newcastle United,England,FALSE
+F,Nigeria,21,MF,Michael Babatunde,24,12,1992,"21,00",Volyn Lutsk,Ukraine,FALSE
+F,Nigeria,22,FW,Michael Uchebo,2,2,1990,"24,00",Cercle Brugge,Belgium,FALSE
+F,Nigeria,23,MF,Ramon Azeez,12,12,1992,"21,00",Almería,Spain,FALSE
+G,Germany,1,GK,Manuel Neuer,27,3,1986,"28,00",Bayern Munich,Germany,FALSE
+G,Germany,2,DF,Kevin Großkreutz,19,7,1988,"25,00",Borussia Dortmund,Germany,FALSE
+G,Germany,3,MF,Matthias Ginter,19,1,1994,"20,00",SC Freiburg,Germany,FALSE
+G,Germany,4,DF,Benedikt Höwedes,29,2,1988,"26,00",Schalke 4,Germany,FALSE
+G,Germany,5,DF,Mats Hummels,16,12,1988,"25,00",Borussia Dortmund,Germany,FALSE
+G,Germany,6,MF,Sami Khedira,4,4,1987,"27,00",Real Madrid,Spain,FALSE
+G,Germany,7,MF,Bastian Schweinsteiger,1,8,1984,"29,00",Bayern Munich,Germany,FALSE
+G,Germany,8,MF,Mesut Özil,15,10,1988,"25,00",Arsenal,England,FALSE
+G,Germany,9,MF,André Schürrle,6,11,1990,"23,00",Chelsea,England,FALSE
+G,Germany,10,MF,Lukas Podolski,4,6,1985,"29,00",Arsenal,England,FALSE
+G,Germany,11,FW,Miroslav Klose,9,6,1978,"36,00",Lazio,Italy,FALSE
+G,Germany,12,GK,Ron-Robert Zieler,12,2,1989,"25,00",Hannover 96,Germany,FALSE
+G,Germany,13,MF,Thomas Müller,13,9,1989,"24,00",Bayern Munich,Germany,FALSE
+G,Germany,14,MF,Julian Draxler,20,9,1993,"20,00",Schalke 4,Germany,FALSE
+G,Germany,15,DF,Erik Durm,12,5,1992,"22,00",Borussia Dortmund,Germany,FALSE
+G,Germany,16,DF,Philipp Lahm (c),11,11,1983,"30,00",Bayern Munich,Germany,TRUE
+G,Germany,17,DF,Per Mertesacker,29,9,1984,"29,00",Arsenal,England,FALSE
+G,Germany,18,MF,Toni Kroos,4,1,1990,"24,00",Bayern Munich,Germany,FALSE
+G,Germany,19,MF,Mario Götze,3,6,1992,"22,00",Bayern Munich,Germany,FALSE
+G,Germany,20,DF,Jérôme Boateng,3,9,1988,"25,00",Bayern Munich,Germany,FALSE
+G,Germany,21,MF,Marco Reus,31,5,1989,"25,00",Borussia Dortmund,Germany,FALSE
+G,Germany,22,GK,Roman Weidenfeller,6,8,1980,"33,00",Borussia Dortmund,Germany,FALSE
+G,Germany,23,MF,Christoph Kramer,12,2,1991,"23,00",Borussia Mönchengladbach,Germany,FALSE
+G,Ghana,1,MF,Sulley Muntari,27,8,1984,"29,00",Milan,Italy,FALSE
+G,Ghana,2,FW,Asamoah Gyan (c),22,11,1985,"28,00",Arab Emirates Al-Ain,United States,TRUE
+G,Ghana,3,MF,Kwadwo Asamoah,9,12,1988,"25,00",Juventus,Italy,FALSE
+G,Ghana,4,MF,Michael Essien,3,12,1982,"31,00",Milan,Italy,FALSE
+G,Ghana,5,MF,Badu,2,12,1990,"23,00",Udinese,Italy,FALSE
+G,Ghana,6,MF,André Ayew,17,12,1989,"24,00",Marseille,France,FALSE
+G,Ghana,7,DF,Samuel Inkoom,1,6,1989,"25,00",Platanias,Greece,FALSE
+G,Ghana,8,DF,Harrison Afful,24,6,1986,"27,00",Espérance,Tunisia,FALSE
+G,Ghana,9,DF,John Boye,23,4,1987,"27,00",Rennes,France,FALSE
+G,Ghana,10,DF,Jonathan Mensah,13,7,1990,"23,00",Évian,France,FALSE
+G,Ghana,11,MF,Christian Atsu,10,1,1992,"22,00",Vitesse,Netherlands,FALSE
+G,Ghana,12,GK,Adam Kwarasey,12,12,1987,"26,00",Strømsgodset,Norway,FALSE
+G,Ghana,13,GK,Fatau Dauda,6,4,1985,"29,00",Africa Orlando Pirates,South,FALSE
+G,Ghana,14,MF,Wakaso Mubarak,25,7,1990,"23,00",Rubin Kazan,Russia,FALSE
+G,Ghana,15,DF,Daniel Opare,18,10,1990,"23,00",Standard Liège,Belgium,FALSE
+G,Ghana,16,MF,Mohammed Rabiu,31,12,1989,"24,00",Kuban Krasnodar,Russia,FALSE
+G,Ghana,17,MF,Albert Adomah,13,12,1987,"26,00",Middlesbrough,England,FALSE
+G,Ghana,18,FW,Kevin-Prince Boateng,6,3,1987,"27,00",Schalke 4,Germany,FALSE
+G,Ghana,19,FW,Jordan Ayew,11,9,1991,"22,00",Sochaux,France,FALSE
+G,Ghana,20,FW,Majeed Waris,19,9,1991,"22,00",Valenciennes,France,FALSE
+G,Ghana,21,GK,Steven Adams,28,9,1989,"24,00",Aduana Stars,Ghana,FALSE
+G,Ghana,22,DF,Rashid Sumaila,18,12,1992,"21,00",Africa Mamelodi Sundowns,South,FALSE
+G,Ghana,23,MF,Afriyie Acquah,5,1,1992,"22,00",Parma,Italy,FALSE
+G,Portugal,1,GK,Eduardo,19,9,1982,"31,00",Braga,Portugal,FALSE
+G,Portugal,2,DF,Bruno Alves,27,11,1981,"32,00",Fenerbahçe,Turkey,FALSE
+G,Portugal,3,DF,Pepe,26,2,1983,"31,00",Real Madrid,Spain,FALSE
+G,Portugal,4,MF,Miguel Veloso,11,5,1986,"28,00",Dynamo Kyiv,Ukraine,FALSE
+G,Portugal,5,DF,Fábio Coentrão,11,3,1988,"26,00",Real Madrid,Spain,FALSE
+G,Portugal,6,MF,William Carvalho,7,4,1992,"22,00",Sporting CP,Portugal,FALSE
+G,Portugal,7,FW,Cristiano Ronaldo (c),5,2,1985,"29,00",Real Madrid,Spain,TRUE
+G,Portugal,8,MF,João Moutinho,8,9,1986,"27,00",Monaco,France,FALSE
+G,Portugal,9,FW,Hugo Almeida,23,5,1984,"30,00",Beşiktaş,Turkey,FALSE
+G,Portugal,10,MF,Vieirinha,24,1,1986,"28,00",VfL Wolfsburg,Germany,FALSE
+G,Portugal,11,FW,Éder,22,12,1987,"26,00",Braga,Portugal,FALSE
+G,Portugal,12,GK,Rui Patrício,15,2,1988,"26,00",Sporting CP,Portugal,FALSE
+G,Portugal,13,DF,Ricardo Costa,16,5,1981,"33,00",Valencia,Spain,FALSE
+G,Portugal,14,DF,Luís Neto,26,5,1988,"26,00",Zenit Saint Petersburg,Russia,FALSE
+G,Portugal,15,MF,Rafa Silva,17,5,1993,"21,00",Braga,Portugal,FALSE
+G,Portugal,16,MF,Raul Meireles,17,3,1983,"31,00",Fenerbahçe,Turkey,FALSE
+G,Portugal,17,MF,Nani,17,11,1986,"27,00",Manchester United,England,FALSE
+G,Portugal,18,MF,Silvestre Varela,2,2,1985,"29,00",Porto,Portugal,FALSE
+G,Portugal,19,DF,André Almeida,10,9,1990,"23,00",Benfica,Portugal,FALSE
+G,Portugal,20,MF,Rúben Amorim,27,1,1985,"29,00",Benfica,Portugal,FALSE
+G,Portugal,21,DF,João Pereira,25,2,1984,"30,00",Valencia,Spain,FALSE
+G,Portugal,22,GK,Beto,1,5,1982,"32,00",Sevilla,Spain,FALSE
+G,Portugal,23,FW,Hélder Postiga,2,8,1982,"31,00",Lazio,Italy,FALSE
+G,USA,1,GK,Tim Howard,6,3,1979,"35,00",Everton,England,FALSE
+G,USA,2,DF,DeAndre Yedlin,9,7,1993,"20,00",Seattle Sounders FC,United States,FALSE
+G,USA,3,DF,Omar Gonzalez,11,10,1988,"25,00",Los Angeles Galaxy,United States,FALSE
+G,USA,4,MF,Michael Bradley,31,7,1987,"26,00",Toronto FC,Canada,FALSE
+G,USA,5,DF,Matt Besler,11,2,1987,"27,00",Sporting Kansas City,United States,FALSE
+G,USA,6,DF,John Brooks,28,1,1993,"21,00",Hertha BSC,Germany,FALSE
+G,USA,7,DF,DaMarcus Beasley,24,5,1982,"32,00",Puebla,Mexico,FALSE
+G,USA,8,FW,Clint Dempsey (c),9,3,1983,"31,00",Seattle Sounders FC,United States,TRUE
+G,USA,9,FW,Aron Jóhannsson,10,11,1990,"23,00",AZ,Netherlands,FALSE
+G,USA,10,MF,Mikkel Diskerud,2,10,1990,"23,00",Rosenborg,Norway,FALSE
+G,USA,11,MF,Alejandro Bedoya,29,4,1987,"27,00",Nantes,France,FALSE
+G,USA,12,GK,Brad Guzan,9,9,1984,"29,00",Aston Villa,England,FALSE
+G,USA,13,MF,Jermaine Jones,3,11,1981,"32,00",Beşiktaş,Turkey,FALSE
+G,USA,14,MF,Brad Davis,8,11,1981,"32,00",Houston Dynamo,United States,FALSE
+G,USA,15,MF,Kyle Beckerman,23,4,1982,"32,00",Real Salt Lake,United States,FALSE
+G,USA,16,MF,Julian Green,6,6,1995,"19,00",Bayern Munich,Germany,FALSE
+G,USA,17,FW,Jozy Altidore,6,11,1989,"24,00",Sunderland,England,FALSE
+G,USA,18,FW,Chris Wondolowski,28,1,1983,"31,00",San Jose Earthquakes,United States,FALSE
+G,USA,19,MF,Graham Zusi,18,8,1986,"27,00",Sporting Kansas City,United States,FALSE
+G,USA,20,DF,Geoff Cameron,11,7,1985,"28,00",Stoke City,England,FALSE
+G,USA,21,DF,Timothy Chandler,29,3,1990,"24,00",1. FC Nürnberg,Germany,FALSE
+G,USA,22,GK,Nick Rimando,17,6,1979,"34,00",Real Salt Lake,United States,FALSE
+G,USA,23,DF,Fabian Johnson,11,12,1987,"26,00",1899 Hoffenheim,Germany,FALSE
+H,Algeria,1,MF,Abdelmoumene Djabou,31,1,1987,"27,00",Club Africain,Tunisia,FALSE
+H,Algeria,2,DF,Madjid Bougherra (c),7,10,1982,"31,00",Lekhwiya,Qatar,TRUE
+H,Algeria,3,MF,Medhi Lacen,15,5,1984,"30,00",Getafe,Spain,FALSE
+H,Algeria,4,DF,Rafik Halliche,2,9,1986,"27,00",Académica,Portugal,FALSE
+H,Algeria,5,GK,Raïs M'Bolhi,25,4,1986,"28,00",CSKA Sofia,Bulgaria,FALSE
+H,Algeria,6,DF,Djamel Mesbah,9,10,1984,"29,00",Livorno,Italy,FALSE
+H,Algeria,7,DF,Carl Medjani,15,5,1985,"29,00",Valenciennes,France,FALSE
+H,Algeria,8,MF,Hassan Yebda,14,5,1984,"30,00",Udinese,Italy,FALSE
+H,Algeria,9,MF,Mehdi Mostefa,30,8,1983,"30,00",Ajaccio,France,FALSE
+H,Algeria,10,FW,El Arbi Hillel Soudani,25,11,1987,"26,00",Dinamo Zagreb,Croatia,FALSE
+H,Algeria,11,FW,Islam Slimani,18,6,1988,"25,00",Sporting CP,Portugal,FALSE
+H,Algeria,12,MF,Sofiane Feghouli,26,12,1989,"24,00",Valencia,Spain,FALSE
+H,Algeria,13,DF,Essaïd Belkalem,1,1,1989,"25,00",Watford,England,FALSE
+H,Algeria,14,MF,Saphir Taïder,29,2,1992,"22,00",Internazionale,Italy,FALSE
+H,Algeria,15,GK,Mohamed Zemmamouche,19,3,1985,"29,00",USM Alger,Algeria,FALSE
+H,Algeria,16,DF,Liassine Cadamuro-Bentaïba,5,3,1988,"26,00",Mallorca,Spain,FALSE
+H,Algeria,17,DF,Faouzi Ghoulam,1,2,1991,"23,00",Napoli,Italy,FALSE
+H,Algeria,18,MF,Yacine Brahimi,8,2,1990,"24,00",Granada,Spain,FALSE
+H,Algeria,19,FW,Nabil Ghilas,20,4,1990,"24,00",Porto,Portugal,FALSE
+H,Algeria,20,DF,Aïssa Mandi,22,10,1991,"22,00",Reims,France,FALSE
+H,Algeria,21,MF,Nabil Bentaleb,24,11,1994,"19,00",Tottenham Hotspur,England,FALSE
+H,Algeria,22,GK,Cédric Si Mohamed,9,1,1985,"29,00",CS Constantine,Algeria,FALSE
+H,Algeria,23,MF,Riyad Mahrez,21,2,1991,"23,00",Leicester City,England,FALSE
+H,Belgium,1,GK,Thibaut Courtois,11,5,1992,"22,00",Atlético Madrid,Spain,FALSE
+H,Belgium,2,DF,Toby Alderweireld,2,3,1989,"25,00",Atlético Madrid,Spain,FALSE
+H,Belgium,3,DF,Thomas Vermaelen,14,11,1985,"28,00",Arsenal,England,FALSE
+H,Belgium,4,DF,Vincent Kompany (c),10,4,1986,"28,00",Manchester City,England,TRUE
+H,Belgium,5,DF,Jan Vertonghen,24,4,1987,"27,00",Tottenham Hotspur,England,FALSE
+H,Belgium,6,MF,Axel Witsel,12,1,1989,"25,00",Zenit Saint Petersburg,Russia,FALSE
+H,Belgium,7,MF,Kevin De Bruyne,28,6,1991,"22,00",VfL Wolfsburg,Germany,FALSE
+H,Belgium,8,MF,Marouane Fellaini,22,11,1987,"26,00",Manchester United,England,FALSE
+H,Belgium,9,FW,Romelu Lukaku,13,5,1993,"21,00",Everton,England,FALSE
+H,Belgium,10,MF,Eden Hazard,7,1,1991,"23,00",Chelsea,England,FALSE
+H,Belgium,11,MF,Kevin Mirallas,5,10,1987,"26,00",Everton,England,FALSE
+H,Belgium,12,GK,Simon Mignolet,6,8,1988,"25,00",Liverpool,England,FALSE
+H,Belgium,13,GK,Sammy Bossut,11,8,1985,"28,00",Zulte Waregem,Belgium,FALSE
+H,Belgium,14,FW,Dries Mertens,6,5,1987,"27,00",Napoli,Italy,FALSE
+H,Belgium,15,DF,Daniel Van Buyten,7,2,1978,"36,00",Bayern Munich,Germany,FALSE
+H,Belgium,16,MF,Steven Defour,15,4,1988,"26,00",Porto,Portugal,FALSE
+H,Belgium,17,FW,Divock Origi,18,4,1995,"19,00",Lille,France,FALSE
+H,Belgium,18,DF,Nicolas Lombaerts,20,3,1985,"29,00",Zenit Saint Petersburg,Russia,FALSE
+H,Belgium,19,MF,Mousa Dembélé,16,7,1987,"26,00",Tottenham Hotspur,England,FALSE
+H,Belgium,20,MF,Adnan Januzaj,5,2,1995,"19,00",Manchester United,England,FALSE
+H,Belgium,21,DF,Anthony Vanden Borre,24,10,1987,"26,00",Anderlecht,Belgium,FALSE
+H,Belgium,22,MF,Nacer Chadli,2,10,1989,"24,00",Tottenham Hotspur,England,FALSE
+H,Belgium,23,DF,Laurent Ciman,5,8,1985,"28,00",Standard Liège,Belgium,FALSE
+H,Russia,1,GK,Igor Akinfeev,8,4,1986,"28,00",CSKA Moscow,Russia,FALSE
+H,Russia,2,DF,Aleksei Kozlov,16,11,1986,"27,00",Dynamo Moscow,Russia,FALSE
+H,Russia,3,DF,Georgi Shchennikov,27,4,1991,"23,00",CSKA Moscow,Russia,FALSE
+H,Russia,4,DF,Sergei Ignashevich,14,7,1979,"34,00",CSKA Moscow,Russia,FALSE
+H,Russia,5,FW,Yuri Zhirkov,20,8,1983,"30,00",Dynamo Moscow,Russia,FALSE
+H,Russia,6,DF,Andrei Semyonov,24,3,1989,"25,00",Terek Grozny,Russia,FALSE
+H,Russia,7,MF,Igor Denisov,17,5,1984,"30,00",Dynamo Moscow,Russia,FALSE
+H,Russia,8,MF,Denis Glushakov,27,1,1987,"27,00",Spartak Moscow,Russia,FALSE
+H,Russia,9,FW,Aleksandr Kokorin,19,3,1991,"23,00",Dynamo Moscow,Russia,FALSE
+H,Russia,10,MF,Alan Dzagoev,17,6,1990,"23,00",CSKA Moscow,Russia,FALSE
+H,Russia,11,FW,Aleksandr Kerzhakov,27,11,1982,"31,00",Zenit Saint Petersburg,Russia,FALSE
+H,Russia,12,GK,Yuri Lodygin,26,5,1990,"24,00",Zenit Saint Petersburg,Russia,FALSE
+H,Russia,13,DF,Vladimir Granat,22,5,1987,"27,00",Dynamo Moscow,Russia,FALSE
+H,Russia,14,DF,Vasili Berezutski,20,6,1982,"31,00",CSKA Moscow,Russia,FALSE
+H,Russia,15,MF,Roman Shirokov (c),6,7,1981,"32,00",Krasnodar,Russia,TRUE
+H,Russia,16,GK,Sergey Ryzhikov,19,9,1980,"33,00",Rubin Kazan,Russia,FALSE
+H,Russia,17,MF,Oleg Shatov,29,7,1990,"23,00",Zenit Saint Petersburg,Russia,FALSE
+H,Russia,18,FW,Aleksei Ionov,18,2,1989,"25,00",Dynamo Moscow,Russia,FALSE
+H,Russia,19,FW,Aleksandr Samedov,19,7,1984,"29,00",Lokomotiv Moscow,Russia,FALSE
+H,Russia,20,MF,Viktor Fayzulin,22,4,1986,"28,00",Zenit Saint Petersburg,Russia,FALSE
+H,Russia,21,FW,Maksim Kanunnikov,14,7,1991,"22,00",Rubin Kazan,Russia,FALSE
+H,Russia,22,DF,Andrey Yeshchenko,9,2,1984,"30,00",Anzhi Makhachkala,Russia,FALSE
+H,Russia,23,DF,Dmitri Kombarov,22,1,1987,"27,00",Spartak Moscow,Russia,FALSE
+H,South Korea,1,GK,Jung Sung-Ryong,4,1,1985,"29,00",Suwon Bluewings Bluewings,South Korea,FALSE
+H,South Korea,2,DF,Kim Chang-Soo,12,9,1985,"28,00",Kashiwa Reysol,Japan,FALSE
+H,South Korea,3,DF,Yun Suk-Young,13,2,1990,"24,00",Queens Park Rangers,England,FALSE
+H,South Korea,4,DF,Kwak Tae-Hwi,8,7,1981,"32,00",Arabia Al-Hilal,Saudi,FALSE
+H,South Korea,5,DF,Kim Young-Gwon,27,2,1990,"24,00",Guangzhou Evergrande,China,FALSE
+H,South Korea,6,DF,Hwang Seok-Ho,27,6,1989,"24,00",Sanfrecce Hiroshima,Japan,FALSE
+H,South Korea,7,MF,Kim Bo-Kyung,6,10,1989,"24,00",Cardiff City,Wales,FALSE
+H,South Korea,8,MF,Ha Dae-Sung,2,3,1985,"29,00",Beijing Guoan,China,FALSE
+H,South Korea,9,FW,Son Heung-Min,8,7,1992,"21,00",Bayer Leverkusen,Germany,FALSE
+H,South Korea,10,FW,Park Chu-Young,10,7,1985,"28,00",Watford,England,FALSE
+H,South Korea,11,FW,Lee Keun-Ho,11,4,1985,"29,00",Sangju Sangmu,South Korea,FALSE
+H,South Korea,12,DF,Lee Yong,24,12,1986,"27,00",Ulsan Hyundai,South Korea,FALSE
+H,South Korea,13,MF,Koo Ja-Cheol (c),27,2,1989,"25,00",Mainz 05,Germany,TRUE
+H,South Korea,14,MF,Han Kook-Young,19,4,1990,"24,00",Kashiwa Reysol,Japan,FALSE
+H,South Korea,15,MF,Park Jong-Woo,10,3,1989,"25,00",Guangzhou R&F,China,FALSE
+H,South Korea,16,MF,Ki Sung-Yueng,24,1,1989,"25,00",Sunderland,England,FALSE
+H,South Korea,17,MF,Lee Chung-Yong,2,7,1988,"25,00",Bolton Wanderers,England,FALSE
+H,South Korea,18,FW,Kim Shin-Wook,14,4,1988,"26,00",Ulsan Hyundai,South Korea,FALSE
+H,South Korea,19,FW,Ji Dong-Won,28,5,1991,"23,00",FC Augsburg,Germany,FALSE
+H,South Korea,20,DF,Hong Jeong-Ho,12,8,1989,"24,00",FC Augsburg,Germany,FALSE
+H,South Korea,21,GK,Kim Seung-Gyu,30,9,1990,"23,00",Ulsan Hyundai Hyundai,South Korea,FALSE
+H,South Korea,22,DF,Park Joo-Ho[56],16,1,1987,"27,00",Mainz 05,Germany,FALSE
+H,South Korea,23,GK,Lee Bum-Young,2,4,1989,"25,00",Busan I'Park,South Korea,FALSE
