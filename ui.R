@@ -8,12 +8,13 @@ shinyUI(pageWithSidebar(
                 radioButtons("cap", "Captain?", c("Yes" = "TRUE", "No" = "FALSE"), selected = "FALSE"),
                 h4 ("Instructions:"),
                 h5 ("You can use this simple app to find any player that participated in the 2014 FIFA World Cup. Three Search parameters can be used:"),
-                h5 ("- Team name (eg. Argentina). Default = all"),   
+                h5 ("- Team name (eg. Argentina). Default = all (blank)"),   
                 h5 ("- Position (eg. GoalKeeper). Default = any"),
                 h5 ("- Captain (each team has only one captain). Default = No"),
                 h5 ("Parameters can be combined to create different criteria")
                 ),
         mainPanel(
+                plotOutput("ligaPlot"),
                 h3("Players"),
                 verbatimTextOutput("players")
         )

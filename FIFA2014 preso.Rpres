@@ -24,15 +24,19 @@ Instructions:
 
 You can use this simple app to find any player that participated in the 2014 FIFA World Cup. Three Search parameters can be used:
 
-- Team name (eg. Argentina). Default = all
+- Team name (eg. Argentina). Default = all (blank)
 - Position (eg. GoalKeeper). Default = any
 - Captain (each team has only one captain). Default = No
 
 Parameters can be combined to create different criteria
 
+Data from: https://datahub.io/dataset/fifa-world-cup-2014-all-players 
 
-To try the application:
+
+Want to learn more about amazing athletes ?
 ========================================================
+
+Try the app and learn about each of the 32 squads
 
 https://psmiraglia.shinyapps.io/DevDataProd
 
